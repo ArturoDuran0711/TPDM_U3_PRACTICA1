@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "84585846856",
+    "firebase_url": "https://tpdmbasepractica1.firebaseio.com",
+    "project_id": "tpdmbasepractica1",
+    "storage_bucket": "tpdmbasepractica1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84585846856:android:d29fc36bcf7f6302",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tpdm_u3_practica1_restaurante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84585846856-1aa1kd2heou1rq6ts5tjfiehlg3bsnr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArITmJiRgUFufDqQ583XAxUBws6n1gKN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

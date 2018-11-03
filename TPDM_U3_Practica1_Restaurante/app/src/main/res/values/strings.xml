@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TPDM_U3_Practica1_Restaurante</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="opciones">
+        <item>Levantar Pedido</item>
+        <item>Cobrar</item>
+        <item>Exportar CVS</item>
+        <item>Salir</item>
+    </string-array>
+</resources>
